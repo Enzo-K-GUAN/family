@@ -1,0 +1,8 @@
+{
+  "name": "Copy of 智绘鹊桥 (AI-Bridge)",
+  "description": "AIGC-powered home-school collaborative education platform designed for the 'Cowherd and Weaver Girl' curriculum, bridging teachers and families through creative AI tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
